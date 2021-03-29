@@ -10,7 +10,7 @@ Journey from Idea to a full functioning website
 ### Wireframing
 <img src="/images/home_page.jpg"
      alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
+     style="float: left; margin-right: 10px; width:800px; height: 600px;" />
 <img src="/images/category_page.jpg"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
