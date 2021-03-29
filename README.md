@@ -8,13 +8,13 @@ Journey from Idea to a full functioning website
 
 ## Design
 ### Wireframing
-<img src="images/home_page.png"
+<img src="/images/home_page.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
-<img src="images/category_page.png"
+<img src="/images/category_page.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
-<img src="images/search_result_page.png"
+<img src="/images/search_result_page.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />          
 
