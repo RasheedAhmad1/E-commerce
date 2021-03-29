@@ -7,6 +7,10 @@ Journey from Idea to a full functioning website
 ## Requirements
 
 ## Design
+### Wireframing
+<img src="markdownmonstericon.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
 
 ## Implementation
 
