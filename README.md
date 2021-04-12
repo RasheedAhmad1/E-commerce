@@ -1,5 +1,5 @@
 # E-commerce
-A multi-vendor E-commerce website
+A single-vendor E-commerce website
 
 Journey from Idea to a full functioning website
 
@@ -10,17 +10,17 @@ Journey from Idea to a full functioning website
 ### Wireframing
 <img src="/images/home_page.jpg"
      alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px; width:800px; height: 600px;" />
+     style="float: left; margin-right: 10px; width:300px; height: 300px;" />
 <img src="/images/category_page.jpg"
      alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
+     style="float: left; margin-right: 10px; width:300px; height: 300px;" />
 <img src="/images/search_result_page.jpg"
      alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />          
+     style="float: left; margin-right: 10px; width:300px; height: 300px;" />          
 
 
 ## Implementation
 
 ## Testing
 
-## 
+## Maintanance
